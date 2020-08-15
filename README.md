@@ -1,14 +1,5 @@
 # Resume Theme for hexo
 
-- Live Demo & Documents: https://resume.js.org/
-- Source Codes: https://github.com/xaoxuu/hexo-theme-resume/
+主题地址: https://github.com/xaoxuu/hexo-theme-resume/
 
-
-# Hexo简历主题
-
-- Demo及文档： https://resume.js.org/zh-cn/
-- 主题源码： https://github.com/xaoxuu/hexo-theme-resume/
-
-
-
-> 附：一个适合简历的Typora主题：[vue-pdf](https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume/source/css/vue-pdf.css)
+搭建说明: http://www.ice-maple.com/2020/08/09/%E5%9C%A8%E7%BA%BF%E7%AE%80%E5%8E%86/
